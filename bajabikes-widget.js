@@ -13,10 +13,14 @@ document.addEventListener("DOMContentLoaded", function () {
       const info = data[city];
 
       block.innerHTML = `
-        <div style="border:1px solid #ccc;padding:16px;border-radius:8px;max-width:400px;margin: 24px auto;">
-          <h3 style="font-size:18px;margin-bottom:12px;">Ontdek ${city.charAt(0).toUpperCase() + city.slice(1)}</h3>
-          <a href="${info.booking_link}" target="_blank" style="display:block;margin-bottom:8px;background:#f90;color:#fff;padding:10px;text-align:center;text-decoration:none;border-radius:4px;">Boek je fietstour</a>
-          <a href="${info.gyg_link}" target="_blank" style="display:block;background:#007BFF;color:#fff;padding:10px;text-align:center;text-decoration:none;border-radius:4px;">Koop je attractiepas</a>
+        <div style="max-width:600px;margin:24px auto;text-align:center;">
+          <p style="color:#666;font-size:16px;margin-bottom:16px;">
+            Boek op tijd voor je trip naar <strong>${city.charAt(0).toUpperCase() + city.slice(1)}</strong>
+          </p>
+          <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;">
+            <a href="${info.tour_link}" target="_blank" style="background:#33AB3D;color:#fff;padding:12px 20px;border-radius:5px;text-decoration:none;min-width:160px;">Boek fietstour</a>
+            <a href="${info.gyg_link}" target="_blank" style="background:#2E59A2;color:#fff;padding:12px 20px;border-radius:5px;text-decoration:none;min-width:160px;">Koop attractiepas</a>
+          </div>
         </div>
       `;
     })
@@ -24,3 +28,4 @@ document.addEventListener("DOMContentLoaded", function () {
       console.error("Fout bij laden widget:", err);
     });
 });
+
