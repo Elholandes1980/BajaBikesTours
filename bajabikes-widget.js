@@ -1,6 +1,6 @@
 
 document.addEventListener("DOMContentLoaded", function () {
-  fetch("https://raw.githubusercontent.com/Elholandes1980/BajaBikesTours/main/city_links.json")
+  fetch("https://raw.githubusercontent.com/Elholandes1980/BajaBikesTours/main/city_links_full.json")
     .then(res => res.json())
     .then(data => {
       const url = window.location.href.toLowerCase();
