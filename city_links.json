@@ -1,0 +1,32 @@
+{
+  "barcelona": {
+    "tour_link": "https://www.bajabikes.eu/nl/barcelona-highlights-fietstour/",
+    "booking_link": "https://www.bajabikes.eu/nl/booking-step-1/?id=12972&lang=nl&date=2025-05-29&start_time=10:00&local=nl",
+    "gyg_link": "https://www.getyourguide.nl/activity/-t50027?partner_id=9AXBYLU"
+  },
+  "lissabon": {
+    "tour_link": "https://www.bajabikes.eu/nl/lissabon-highlights-fietstour/",
+    "booking_link": "https://www.bajabikes.eu/nl/booking-step-1/?id=13712&lang=nl&date=2025-05-29&start_time=14:00&local=nl",
+    "gyg_link": "https://www.getyourguide.nl/activity/-t38079?partner_id=9AXBYLU"
+  },
+  "valencia": {
+    "tour_link": "https://www.bajabikes.eu/nl/valencia-highlights-fietstour/",
+    "booking_link": "https://www.bajabikes.eu/nl/booking-step-1/?id=12943&lang=nl&date=2025-05-29&start_time=15:00&local=nl&adults=2",
+    "gyg_link": "https://www.getyourguide.nl/activity/-t413877?partner_id=9AXBYLU"
+  },
+  "madrid": {
+    "tour_link": "https://www.bajabikes.eu/nl/madrid-highlights-fietstour/",
+    "booking_link": "https://www.bajabikes.eu/nl/booking-step-1/?id=12938&lang=nl&date=2025-05-29&start_time=10:00&local=nl",
+    "gyg_link": "https://www.getyourguide.nl/activity/-t194657?partner_id=9AXBYLU"
+  },
+  "keulen": {
+    "tour_link": "https://www.bajabikes.eu/nl/keulen-fietstour-de-highlights/",
+    "booking_link": "https://www.bajabikes.eu/nl/booking-step-1/?id=40235&lang=en&date=2025-05-29&start_time=10:30&local=nl&adults=2",
+    "gyg_link": "https://www.getyourguide.nl/activity/-t2987?partner_id=9AXBYLU"
+  },
+  "florence": {
+    "tour_link": "https://www.bajabikes.eu/nl/florence-highlights-fietstocht-engels/",
+    "booking_link": "https://www.bajabikes.eu/nl/booking-step-1/?id=162536&lang=en&date=2025-05-29&start_time=16:00&local=nl&adults=2",
+    "gyg_link": "https://www.getyourguide.nl/activity/-t57076?partner_id=9AXBYLU"
+  }
+}
