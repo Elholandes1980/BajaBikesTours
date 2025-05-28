@@ -1,0 +1,542 @@
+{
+  "barcelona": {
+    "tour_link": "https://www.bajabikes.eu/nl/barcelona-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=barcelona&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "maastricht": {
+    "tour_link": "https://www.bajabikes.eu/nl/maastricht-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=maastricht&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "lissabon": {
+    "tour_link": "https://www.bajabikes.eu/nl/lissabon-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=lissabon&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "londen": {
+    "tour_link": "https://www.bajabikes.eu/nl/londen-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=londen&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "parijs": {
+    "tour_link": "https://www.bajabikes.eu/nl/parijs-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=parijs&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "krakau": {
+    "tour_link": "https://www.bajabikes.eu/nl/krakau-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=krakau&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "valencia": {
+    "tour_link": "https://www.bajabikes.eu/nl/valencia-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=valencia&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "dubai": {
+    "tour_link": "https://www.bajabikes.eu/nl/dubai-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=dubai&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "rotterdam": {
+    "tour_link": "https://www.bajabikes.eu/nl/rotterdam-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=rotterdam&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "new": {
+    "tour_link": "https://www.bajabikes.eu/nl/new-york-fietstour-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=new&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "dublin": {
+    "tour_link": "https://www.bajabikes.eu/nl/dublin-fietstour-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=dublin&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "madrid": {
+    "tour_link": "https://www.bajabikes.eu/nl/madrid-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=madrid&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "haarlem": {
+    "tour_link": "https://www.bajabikes.eu/nl/haarlem-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=haarlem&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "santiago": {
+    "tour_link": "https://www.bajabikes.eu/nl/santiago-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=santiago&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "groningen": {
+    "tour_link": "https://www.bajabikes.eu/nl/groningen-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=groningen&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "verona": {
+    "tour_link": "https://www.bajabikes.eu/nl/verona-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=verona&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "gdansk": {
+    "tour_link": "https://www.bajabikes.eu/nl/gdansk-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=gdansk&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "melbourne": {
+    "tour_link": "https://www.bajabikes.eu/nl/melbourne-fietstour-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=melbourne&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "singapore": {
+    "tour_link": "https://www.bajabikes.eu/nl/singapore-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=singapore&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "nijmegen": {
+    "tour_link": "https://www.bajabikes.eu/nl/nijmegen-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=nijmegen&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "munchen": {
+    "tour_link": "https://www.bajabikes.eu/nl/munchen-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=munchen&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "den": {
+    "tour_link": "https://www.bajabikes.eu/nl/den-haag-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=den&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "vilamoura": {
+    "tour_link": "https://www.bajabikes.eu/nl/vilamoura-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=vilamoura&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "riga": {
+    "tour_link": "https://www.bajabikes.eu/nl/riga-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=riga&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "breda": {
+    "tour_link": "https://www.bajabikes.eu/nl/breda-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=breda&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "turijn": {
+    "tour_link": "https://www.bajabikes.eu/nl/turijn-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=turijn&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "victoria": {
+    "tour_link": "https://www.bajabikes.eu/nl/victoria-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=victoria&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "istanbul": {
+    "tour_link": "https://www.bajabikes.eu/nl/istanbul-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=istanbul&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "malaga": {
+    "tour_link": "https://www.bajabikes.eu/nl/malaga-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=malaga&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "ottawa": {
+    "tour_link": "https://www.bajabikes.eu/nl/ottawa-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=ottawa&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "belfast": {
+    "tour_link": "https://www.bajabikes.eu/nl/belfast-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=belfast&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "medellin": {
+    "tour_link": "https://www.bajabikes.eu/nl/medellin-fietstour-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=medellin&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "bordeaux": {
+    "tour_link": "https://www.bajabikes.eu/nl/bordeaux-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=bordeaux&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "lyon": {
+    "tour_link": "https://www.bajabikes.eu/nl/lyon-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=lyon&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "oxford": {
+    "tour_link": "https://www.bajabikes.eu/nl/oxford-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=oxford&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "stockholm": {
+    "tour_link": "https://www.bajabikes.eu/nl/stockholm-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=stockholm&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "lecce": {
+    "tour_link": "https://www.bajabikes.eu/nl/lecce-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=lecce&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "san": {
+    "tour_link": "https://www.bajabikes.eu/nl/san-sebastian-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=san&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "leeuwarden": {
+    "tour_link": "https://www.bajabikes.eu/nl/leeuwarden-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=leeuwarden&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "kaapstad": {
+    "tour_link": "https://www.bajabikes.eu/nl/kaapstad-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=kaapstad&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "bari": {
+    "tour_link": "https://www.bajabikes.eu/nl/bari-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=bari&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "mechelen": {
+    "tour_link": "https://www.bajabikes.eu/nl/mechelen-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=mechelen&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "reykjavik": {
+    "tour_link": "https://www.bajabikes.eu/nl/reykjavik-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=reykjavik&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "palma": {
+    "tour_link": "https://www.bajabikes.eu/nl/palma-de-mallorca-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=palma&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "hollywood": {
+    "tour_link": "https://www.bajabikes.eu/nl/hollywood-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=hollywood&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "rhodos": {
+    "tour_link": "https://www.bajabikes.eu/nl/rhodos-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=rhodos&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "utrecht": {
+    "tour_link": "https://www.bajabikes.eu/nl/utrecht-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=utrecht&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "wenen": {
+    "tour_link": "https://www.bajabikes.eu/nl/wenen-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=wenen&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "milos": {
+    "tour_link": "https://www.bajabikes.eu/nl/milos-highlights-fiets-tour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=milos&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "split": {
+    "tour_link": "https://www.bajabikes.eu/nl/split-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=split&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "antwerpen": {
+    "tour_link": "https://www.bajabikes.eu/nl/antwerpen-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=antwerpen&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "amsterdam": {
+    "tour_link": "https://www.bajabikes.eu/nl/amsterdam-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=amsterdam&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "keulen": {
+    "tour_link": "https://www.bajabikes.eu/nl/keulen-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=keulen&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "chicago": {
+    "tour_link": "https://www.bajabikes.eu/nl/chicago-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=chicago&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "torremolinos": {
+    "tour_link": "https://www.bajabikes.eu/nl/torremolinos-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=torremolinos&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "kopenhagen": {
+    "tour_link": "https://www.bajabikes.eu/nl/kopenhagen-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=kopenhagen&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "kuala": {
+    "tour_link": "https://www.bajabikes.eu/nl/kuala-lumpur-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=kuala&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "florence": {
+    "tour_link": "https://www.bajabikes.eu/nl/florence-highlights-fietstocht-engels/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=florence&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "marseille": {
+    "tour_link": "https://www.bajabikes.eu/nl/marseille-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=marseille&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "milaan": {
+    "tour_link": "https://www.bajabikes.eu/nl/milaan-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=milaan&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "hamburg": {
+    "tour_link": "https://www.bajabikes.eu/nl/hamburg-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=hamburg&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "ljubljana": {
+    "tour_link": "https://www.bajabikes.eu/nl/ljubljana-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=ljubljana&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "athene": {
+    "tour_link": "https://www.bajabikes.eu/nl/athene-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=athene&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "ibiza": {
+    "tour_link": "https://www.bajabikes.eu/nl/ibiza-fietstocht-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=ibiza&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "salamanca": {
+    "tour_link": "https://www.bajabikes.eu/nl/salamanca-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=salamanca&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "bilbao": {
+    "tour_link": "https://www.bajabikes.eu/nl/bilbao-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=bilbao&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "oslo": {
+    "tour_link": "https://www.bajabikes.eu/nl/oslo-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=oslo&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "boston": {
+    "tour_link": "https://www.bajabikes.eu/nl/boston-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=boston&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "frankfurt": {
+    "tour_link": "https://www.bajabikes.eu/nl/frankfurt-fietstour-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=frankfurt&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "sint": {
+    "tour_link": "https://www.bajabikes.eu/nl/sint-maarten-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=sint&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "liverpool": {
+    "tour_link": "https://www.bajabikes.eu/nl/liverpool-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=liverpool&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "leuven": {
+    "tour_link": "https://www.bajabikes.eu/nl/leuven-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=leuven&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "bangkok": {
+    "tour_link": "https://www.bajabikes.eu/nl/bangkok-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=bangkok&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "pula": {
+    "tour_link": "https://www.bajabikes.eu/nl/pula-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=pula&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "bergen": {
+    "tour_link": "https://www.bajabikes.eu/nl/bergen-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=bergen&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "eindhoven": {
+    "tour_link": "https://www.bajabikes.eu/nl/eindhoven-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=eindhoven&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "warschau": {
+    "tour_link": "https://www.bajabikes.eu/nl/warschau-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=warschau&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "kefalonia": {
+    "tour_link": "https://www.bajabikes.eu/nl/kefalonia-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=kefalonia&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "straatsburg": {
+    "tour_link": "https://www.bajabikes.eu/nl/straatsburg-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=straatsburg&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "leipzig": {
+    "tour_link": "https://www.bajabikes.eu/nl/leipzig-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=leipzig&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "alicante": {
+    "tour_link": "https://www.bajabikes.eu/nl/alicante-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=alicante&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "edinburgh": {
+    "tour_link": "https://www.bajabikes.eu/nl/edinburgh-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=edinburgh&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "rome": {
+    "tour_link": "https://www.bajabikes.eu/nl/rome-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=rome&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "praag": {
+    "tour_link": "https://www.bajabikes.eu/nl/praag-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=praag&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "boedapest": {
+    "tour_link": "https://www.bajabikes.eu/nl/boedapest-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=boedapest&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "tel": {
+    "tour_link": "https://www.bajabikes.eu/nl/tel-aviv-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=tel&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "peking": {
+    "tour_link": "https://www.bajabikes.eu/nl/peking-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=peking&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "berlijn": {
+    "tour_link": "https://www.bajabikes.eu/nl/berlijn-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=berlijn&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "delhi": {
+    "tour_link": "https://www.bajabikes.eu/nl/delhi-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=delhi&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "girona": {
+    "tour_link": "https://www.bajabikes.eu/nl/girona-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=girona&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "palermo": {
+    "tour_link": "https://www.bajabikes.eu/nl/palermo-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=palermo&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "toronto": {
+    "tour_link": "https://www.bajabikes.eu/nl/toronto-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=toronto&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "seoul": {
+    "tour_link": "https://www.bajabikes.eu/nl/seoul-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=seoul&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "lima": {
+    "tour_link": "https://www.bajabikes.eu/nl/lima-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=lima&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "zagreb": {
+    "tour_link": "https://www.bajabikes.eu/nl/zagreb-fietstour-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=zagreb&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "zaragoza": {
+    "tour_link": "https://www.bajabikes.eu/nl/zaragoza-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=zaragoza&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "dresden": {
+    "tour_link": "https://www.bajabikes.eu/nl/dresden-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=dresden&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "toulouse": {
+    "tour_link": "https://www.bajabikes.eu/nl/toulouse-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=toulouse&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "rio": {
+    "tour_link": "https://www.bajabikes.eu/nl/rio-de-janeiro-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=rio&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "nerja": {
+    "tour_link": "https://www.bajabikes.eu/nl/nerja-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=nerja&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "ronda": {
+    "tour_link": "https://www.bajabikes.eu/nl/ronda-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=ronda&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "cadiz": {
+    "tour_link": "https://www.bajabikes.eu/nl/cadiz-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=cadiz&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "marbella": {
+    "tour_link": "https://www.bajabikes.eu/nl/marbella-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=marbella&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "marrakech": {
+    "tour_link": "https://www.bajabikes.eu/nl/marrakech-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=marrakech&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "bologna": {
+    "tour_link": "https://www.bajabikes.eu/nl/bologna-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=bologna&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "kristiansand": {
+    "tour_link": "https://www.bajabikes.eu/nl/kristiansand-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=kristiansand&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "lille": {
+    "tour_link": "https://www.bajabikes.eu/nl/lille-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=lille&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "malta": {
+    "tour_link": "https://www.bajabikes.eu/nl/malta-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=malta&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "montevideo": {
+    "tour_link": "https://www.bajabikes.eu/nl/montevideo-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=montevideo&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "potsdam": {
+    "tour_link": "https://www.bajabikes.eu/nl/potsdam-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=potsdam&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "thessaloniki": {
+    "tour_link": "https://www.bajabikes.eu/nl/thessaloniki-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=thessaloniki&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "cordoba": {
+    "tour_link": "https://www.bajabikes.eu/nl/cordoba-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=cordoba&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "brugge": {
+    "tour_link": "https://www.bajabikes.eu/nl/brugge-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=brugge&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "paramaribo": {
+    "tour_link": "https://www.bajabikes.eu/nl/paramaribo-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=paramaribo&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "pisa": {
+    "tour_link": "https://www.bajabikes.eu/nl/pisa-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=pisa&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "gent": {
+    "tour_link": "https://www.bajabikes.eu/nl/gent-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=gent&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "sevilla": {
+    "tour_link": "https://www.bajabikes.eu/nl/sevilla-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=sevilla&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "stuttgart": {
+    "tour_link": "https://www.bajabikes.eu/nl/stuttgart-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=stuttgart&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "boekarest": {
+    "tour_link": "https://www.bajabikes.eu/nl/boekarest-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=boekarest&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "bratislava": {
+    "tour_link": "https://www.bajabikes.eu/nl/bratislava-highlightstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=bratislava&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "havana": {
+    "tour_link": "https://www.bajabikes.eu/nl/havana-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=havana&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "zwolle": {
+    "tour_link": "https://www.bajabikes.eu/nl/zwolle-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=zwolle&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "vilnius": {
+    "tour_link": "https://www.bajabikes.eu/nl/vilnius-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=vilnius&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "santo-domingo": {
+    "tour_link": "https://www.bajabikes.eu/nl/santo-domingo-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=santo domingo&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "lucca": {
+    "tour_link": "https://www.bajabikes.eu/nl/lucca-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=lucca&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "alkmaar": {
+    "tour_link": "https://www.bajabikes.eu/nl/alkmaar-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=alkmaar&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "agadir": {
+    "tour_link": "https://www.bajabikes.eu/nl/agadir-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=agadir&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "sydney": {
+    "tour_link": "https://www.bajabikes.eu/nl/sydney-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=sydney&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "talinn": {
+    "tour_link": "https://www.bajabikes.eu/nl/highlights-fietstour-tallinn/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=talinn&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "montreal": {
+    "tour_link": "https://www.bajabikes.eu/nl/montreal-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=montreal&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "buenos-aires": {
+    "tour_link": "https://www.bajabikes.eu/nl/buenos-aires-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=buenos aires&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "napels": {
+    "tour_link": "https://www.bajabikes.eu/nl/napels-fietstour-de-highlights/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=napels&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "porto": {
+    "tour_link": "https://www.bajabikes.eu/nl/porto-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=porto&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "leiden": {
+    "tour_link": "https://www.bajabikes.eu/nl/leiden-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=leiden&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  },
+  "casablanca": {
+    "tour_link": "https://www.bajabikes.eu/nl/casablanca-highlights-fietstour/?utm_source=blog&utm_medium=sidebar",
+    "gyg_link": "https://www.getyourguide.com/s?q=casablanca&partner_id=9AXBYLU&utm_medium=suppliers&cmp=Blog-Widget-Test"
+  }
+}
