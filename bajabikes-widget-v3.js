@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
       });
 
       if (!city) {
-        //block.innerHTML = '<p style="color:#666;text-align:center;">Geen stad herkend in de URL.</p>';
+        block.innerHTML = '<p style="color:#666;text-align:center;"></p>';
         return;
       }
 
